@@ -7,7 +7,7 @@ ICMP data is carried as the payload of an **IP** datagram
 ICMP message not generate when:
 1. ICMP message itself.
 2. fragments except first fragment.
-3. broadcast and multicast.
+3. broadcast and [[IP#^7a2d81|multcast]].
 4. specific IP (127.0.0.0, 0.0.0.0)
 ![[Pasted image 20260530183704.png|500]]
 

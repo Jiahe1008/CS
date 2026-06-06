@@ -62,20 +62,6 @@
             }
           },
           {
-            "id": "fea69fc9e649f143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/Routing Algorithm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Routing Algorithm"
-            }
-          },
-          {
             "id": "0a4d0cb721e0d5f0",
             "type": "leaf",
             "state": {
@@ -121,65 +107,19 @@
             "id": "7ec6347f1143ad9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/网络层/Network Layer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network Layer"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
-            "id": "1074cb67cd8233a4",
+            "id": "8ac2dab2af0a657a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/网络层/ICMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ICMP"
-            }
-          },
-          {
-            "id": "adef5bb49c3feca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/network layer ppt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "network layer ppt"
-            }
-          },
-          {
-            "id": "b638d3eefaf5c640",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/Routing Algorithm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Routing Algorithm"
-            }
-          },
-          {
-            "id": "ea350066b37415c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transport Layer.md",
+                "file": "计算机网络/传输层/Transport Layer.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,35 +128,63 @@
             }
           },
           {
+            "id": "0daeb9111815c166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/transport layer assignment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "transport layer assignment"
+            }
+          },
+          {
+            "id": "1f809edb2cbfe940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/IO方式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IO方式"
+            }
+          },
+          {
+            "id": "adef5bb49c3feca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/网络层/BGP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BGP"
+            }
+          },
+          {
             "id": "76848199965a59b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/网络层/Network Layer.md",
+                "file": "计算机网络/网络层/BGP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Layer"
-            }
-          },
-          {
-            "id": "f5244ca451485f2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机网络/实验/LAB4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LAB4"
+              "title": "BGP"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -378,45 +346,46 @@
       "bases:新建数据库": false
     }
   },
-  "active": "76848199965a59b2",
+  "active": "1f809edb2cbfe940",
   "lastOpenFiles": [
-    "Pasted image 20260605220912.png",
-    "Pasted image 20260605220022.png",
+    "计算机组成原理/存储系统.md",
+    "计算机组成原理/IO方式.md",
+    "未命名.md",
+    "计算机组成原理/总线与输入输出系统.md",
+    "计算机组成原理/计算机组成.md",
+    "计算机网络/计算机网络.md",
+    "计算机网络/transport layer assignment.md",
+    "计算机网络/传输层/Transport Layer.md",
+    "计算机网络/网络层/IP.md",
+    "计算机网络/网络层/Network Layer.md",
+    "计算机网络/网络层/Routing Algorithm.md",
+    "计算机网络/网络层/OSPF.md",
+    "计算机网络/transport layer ppt.md",
+    "计算机网络/网络层/ICMP.md",
+    "计算机网络/网络层/network layer ppt.md",
+    "计算机网络/IGP.md",
+    "计算机网络/传输层",
+    "计算机网络/ethernet frame.md",
+    "计算机网络/网络层/BGP.md",
+    "计算机网络/网络层/RIP.md",
+    "trick.md",
+    "EGP.md",
+    "计算机网络/Congestion Control.md",
+    "hgm.md",
+    "编译原理/自上而下分析.md",
+    "编译原理/形式语言.md",
     "Pasted image 20260605215720.png",
     "计算机网络/网络层/ARP.md",
-    "计算机网络/网络层/Network Layer.md",
-    "计算机网络/transport layer ppt.md",
-    "Transport Layer.md",
-    "计算机网络/network layer ppt.md",
-    "计算机网络/Routing Algorithm.md",
-    "计算机网络/Medium Access Control (MAC).md",
-    "transport layer assignment.md",
-    "计算机网络/Congestion Control.md",
-    "数据结构和算法/数据结构/string.md",
-    "数据结构和算法/数据结构/vector.md",
-    "计算机网络/网络层/ICMP.md",
+    "Pasted image 20260605220912.png",
+    "Pasted image 20260605220022.png",
     "计算机网络/image/屏幕截图 2026-05-14 153638.png",
     "计算机网络/image/Pasted image 20260520180148.png",
     "计算机网络/网络层",
-    "数据结构和算法/算法/最短路/找中位数下标.md",
-    "数据结构和算法/算法/最短路/Dijsktra Algorithm.md",
-    "数据结构和算法/算法/最短路/Bellman-Fold Algorithm.md",
     "计算机网络/image/Pasted image 20260530183704.png",
-    "自上而下分析.md",
-    "编译原理/语法分析.md",
-    "形式语言.md",
-    "计算机组成原理/存储系统.md",
-    "hgm.md",
-    "计算机网络/实验/LAB6.md",
-    "计算机网络/实验/LAB5.md",
     "计算机网络/image/Pasted image 20260520181736.png",
     "计算机网络/image/Pasted image 20260520181650.png",
     "计算机网络/image/Pasted image 20260520181648.png",
     "计算机网络/image/Pasted image 20260520181536.png",
-    "计算机网络/image/Pasted image 20260520180210.png",
-    "计算机网络/实验/LAB4.md",
-    "计算机网络/实验/LAB3.md",
-    "计算机网络/实验/LAB1.md",
     "遥感/HGM",
     "遥感",
     "paper",
@@ -424,7 +393,6 @@
     "数据结构和算法/算法",
     "计算机组成原理",
     "数据结构和算法/数据结构",
-    "计算机网络/image",
-    "数据结构和算法/leetcode"
+    "计算机网络/image"
   ]
 }
