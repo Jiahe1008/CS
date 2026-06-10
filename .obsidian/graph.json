@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:计算机网络  ",
+      "color": {
+        "a": 1,
+        "rgb": 7378631
+      }
+    },
+    {
+      "query": "path:编译原理  ",
+      "color": {
+        "a": 1,
+        "rgb": 14663553
+      }
+    },
+    {
+      "query": "path:计算机组成原理  ",
+      "color": {
+        "a": 1,
+        "rgb": 12506767
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.29532871972318,
+  "lineSizeMultiplier": 1.44792387543253,
   "collapse-forces": false,
-  "centerStrength": 0.47923875432526,
-  "repelStrength": 9.86159169550173,
-  "linkStrength": 0.717993079584775,
-  "linkDistance": 213,
-  "scale": 0.6239281544989528,
+  "centerStrength": 0.586505190311419,
+  "repelStrength": 11.9377162629758,
+  "linkStrength": 0.807958477508651,
+  "linkDistance": 184,
+  "scale": 0.525621336079002,
   "close": true
 }
