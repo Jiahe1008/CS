@@ -12,8 +12,6 @@ data link layer  -->   LLC sublayer
 physical layer         physical layer
 -------------          --------------
 ```
-## MAC: a taxonomy
-![[Pasted image 20260429220957.png|400]]
 
 ### Channel partitioning
 #### TDMA
