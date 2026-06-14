@@ -5,6 +5,7 @@ Ethernet II structure
 | Destination MAC | Source MAC | EtherType | Payload |
 | 6 bytes         | 6 bytes    | 2 bytes   | variable |
 ```
+wireshark捕获不到：mac frame前面有8B的同步码`101010101010.....10101011`, 10101011**是帧定界开始符**，标志mac帧开始。
 
 if have VLAN:
 ```
